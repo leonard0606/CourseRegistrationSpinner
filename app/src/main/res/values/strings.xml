@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CourseRegistrationSpinner</string>
+    <string-array name="Spinner_Items">
+
+        <item>BSc. Computer Science</item>
+        <item>BSc. Applied Computer Science</item>
+        <item>BSc. IT</item>
+        <item>Diploma in Computer Science</item>
+        <item>MSc. Computer Science</item>
+
+
+    </string-array>
+
+
+
+    
+</resources>
